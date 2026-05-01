@@ -1,6 +1,9 @@
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
+<h1 style="color:yellow;">Header Format Diagram of OSPF</h1>
+
+![alt text](image-9.png)
 
 To provide a high-quality, exam-ready explanation, here is the refined, structured, and comprehensive guide to **Open Shortest Path First (OSPF)**. This version uses full terminology and is organized for maximum clarity.
 
