@@ -1,16 +1,11 @@
 # 📘 Configuration Management (Computer Networks / Systems)
+![alt text](image.png)
 
 ## 🔹 Introduction
 
 **Configuration Management** is the process of systematically **setting up, maintaining, tracking, and controlling the configuration of hardware, software, and network systems** in an organization.
 
 In simple terms, it ensures that all systems (servers, routers, applications, etc.) are **properly configured, consistent, and working as expected**, even when changes are made over time.
-
----
-
-## 🔹 Definition
-
-Configuration Management is a discipline that deals with **identifying, organizing, and controlling changes in a system’s configuration** so that performance, reliability, and security are maintained.
 
 ---
 
